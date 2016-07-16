@@ -14,6 +14,15 @@ a {
   text-decoration: none;
 }
 
+.container {
+  width: 800px;
+  height: 400px;
+  margin: auto;
+  border: 3px solid white;
+  border-radius: 20px;
+  background-color: #E1BD75;
+}
+
 .button0 {
   width: 100px;
   height: 50px;
@@ -99,11 +108,12 @@ p.button_text_home {
   color: white;
   font-weight: 500;
   text-align: center;
+  margin: auto;
 }
 
 .button1_home {
-  width: 500px;
-  height: 400px;
+  width: 200px;
+  height: 200px;
   border: 3px solid white;
   border-radius: 3%;
   margin: 0px 50px;
@@ -114,8 +124,8 @@ p.button_text_home {
   }
 
 .button2_home {
-  width: 500px;
-  height: 400px;
+  width: 200px;
+  height: 200px;
   border: 3px solid white;
   border-radius: 3%;
   margin: 0px 50px;
@@ -192,7 +202,8 @@ legend {
 
 h1 {
   text-align: center;
-  margin-top: 25px;
+  margin: 25px 0px;
+  margin-top: 50px;
   color: white;
 }
 
