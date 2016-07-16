@@ -7,7 +7,7 @@
 
 html {
   padding-top: 0;
-  background-color: #2E7360;
+  background-color: #8AE4ED;
 }
 
 a {
@@ -18,16 +18,26 @@ a {
   width: 800px;
   height: 400px;
   margin: auto;
-  border: 3px solid white;
-  border-radius: 20px;
-  background-color: #E1BD75;
+  border: 5px solid white;
+  border-radius: 30px;
+  background-color: #ECA10A;
+}
+
+.container_region {
+  width: 40%;
+  margin: 5%;
+  height: 100vh;
+  background-color:  #ECA10A;
+  border-radius: 30px;
+  float: left;
+  border: 5px solid white;
 }
 
 .button0 {
   width: 100px;
   height: 50px;
   text-align: center;
-  color: #2E7360;
+  color: #ECA10A;
   line-height: 50px;
   font-size: 20px;
   font-weight: 700;
@@ -44,95 +54,68 @@ a {
 
 
 .button1_problem {
-  width: 500px;
-  height: 175px;
-  border: 3px solid white;
-  border-radius: 3%;
-  margin: 0 50px;
-  float: left;
+  width: 90%;
+  height: 16vh;
+  border: 5px solid white;
+  border-radius: 30px;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: #E6B044;
 }
   .button1_problem:hover {
-    background-color: black;
-  }
-
-.button2_problem {
-  width: 500px;
-  height: 175px;
-  border: 3px solid white;
-  border-radius: 3%;
-  margin: 0 50px;
-  float: left;
-}
-  .button2_problem:hover {
-    background-color: black;
-  }
-
-.button3_problem {
-  width: 500px;
-  height: 175px;
-  border: 3px solid white;
-  border-radius: 3%;
-  margin: 50px;
-  float: left;
-}
-  .button3_problem:hover {
-    background-color: black;
-  }
-
-.button4_problem {
-  width: 500px;
-  height: 175px;
-  border: 3px solid white;
-  border-radius: 3%;
-  margin: 50px;
-  float: left;
-}
-  .button4_problem:hover {
-    background-color: black;
+    background-color: lightgray;
   }
 
 p.button_text_problem {
-  width: 320px;
-  float: right;
-  line-height: 175px;
-  font-size: 20px;
+  width: 100%;
+  line-height: 14vh;
+  font-size: 25px;
   color: white;
-  font-weight: 500;
+  font-weight: 700;
+  text-align: center;
 }
 
 p.button_text_home {
-  width: 500px;
+  width: 295px;
   float: right;
-  line-height: 400px;
+  line-height: 300px;
   font-size: 20px;
   color: white;
-  font-weight: 500;
+  font-weight: 700;
   text-align: center;
   margin: auto;
 }
 
 .button1_home {
-  width: 300px;
-  height: 250px;
-  border: 3px solid white;
-  border-radius: 3%;
-  margin: 0px 50px;
+  width: 295px;
+  height: 300px;
+  border: 5px solid white;
+  border-radius: 30px;
+  margin: 50px;
+  margin-left: 75px;
+  margin-right: 25px;
   float: left;
+  background-color: #E6B044;
 }
   .button1_home:hover {
-    background-color: black;
+    background-color: lightgray;
   }
 
 .button2_home {
-  width: 300px;
-  height: 250px;
-  border: 3px solid white;
-  border-radius: 3%;
-  margin: 0px 50px;
+  width: 295px;
+  height: 300px;
+  border: 5px solid white;
+  border-radius: 30px;
+  margin: 50px;
+  margin-left: 25px;
+  margin-right: 75px;
   float: left;
+  background-color: #E6B044;
 }
   .button2_home:hover {
-    background-color: black;
+    background-color: lightgray;
   }
 
   form {
@@ -208,7 +191,24 @@ h1 {
 }
 
 .nav_bar {
-  background-color: black;
+  background-color: white;
   width: 100%;
   height: 50px;
+}
+
+.nav_bar_bottom {
+  width: 100%;
+  height: 50px;
+  background-color: white;
+  position: fixed;
+  bottom: 0%;
+}
+
+#map {
+  width: 40%;
+  height: 100vh;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 30px;
 }
