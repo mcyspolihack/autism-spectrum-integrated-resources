@@ -3,3 +3,39 @@
 <div class='button3_problem'><p class='button_text_problem'>SOUTH<p></div>
 <div class='button4_problem'><p class='button_text_problem'>WEST<p></div>
 <a href='/subregion.html'><div class='button1_problem'><p class='button_text_problem'>TORONTO<p></div></a>
+
+  <div id="map" style="width: 500px; height: 400px;"></div>
+
+
+  <script type="text/javascript">
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 4,
+    center: new google.maps.LatLng(49.394356, -83.258522),
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  });
+  function loadURL(marker){
+    return function(){
+      window.location.href = marker.url;
+    };
+  };
+  //
+  // function initialize(){
+    var locations = [
+      ['northOntario', 52.291257, -86.160338, 'https://google.com'],
+      ['southOntario', 43.194339, -80.932087, 'https://yahoo.com'],
+      ['westOntario', 50.900586, -92.489704, 'https://facebook.com'],
+      ['eastOntario', 49.551208, -80.624470, 'https://linkedin.com'],
+    ];
+    var infowindow = new google.maps.InfoWindow();
+    var marker, i;
+    for (i = 0; i < locations.length; i++) {
+      marker = new google.maps.Marker({
+        position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+        map: map,
+        title: locations[i][0],
+        url: locations[i][3]
+      });
+      google.maps.event.addListener(marker, 'click', loadURL(marker));
+    };
+  // };
+  </script>
