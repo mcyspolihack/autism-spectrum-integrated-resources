@@ -7,25 +7,36 @@
         //if the current image is picture1.png, change it to picture2.png
         if(src == 'images/angry-256.png') {
             $("#angry").attr("src","images/quiet-256.png");
-
+            $('.textbox').append('<p class="floatright">Go To Quiet Place</p>');
         }
         else if(src == 'images/quiet-256.png') {
+            $('.textbox').html('');
             $("#angry").attr("src","images/meditation-256.png");
+            $('.textbox').append('<p class="floatright">Try Meditation</p>');
 
         } else if(src == "images/meditation-256.png") {
-            $("#angry").attr("src","images/teddy-bear-256.png"); 
+          $('.textbox').html('');
+            $("#angry").attr("src","images/teddy-bear-256.png");
+            $('.textbox').append('<p class="floatright">Give Them Sensory Toys</p>');
 
         } else if(src == "images/teddy-bear-256.png") {
-            $("#angry").attr("src","images/hug-256.png"); 
+          $('.textbox').html('');
+            $("#angry").attr("src","images/hug-256.png");
+            $('.textbox').append('<p class="floatright">Gently Rock Back and Fourth</p>');
 
         } else if(src == "images/hug-256.png") {
-            $("#angry").attr("src","images/television-256.png"); 
+          $('.textbox').html('');
+            $("#angry").attr("src","images/television-256.png");
+            $('.textbox').append('<p class="floatright">Watch TV</p>');
 
         } else if(src == "images/television-256.png") {
-            $("#angry").attr("src","images/painter-256.png"); 
+          $('.textbox').html('');
+            $("#angry").attr("src","images/painter-256.png");
+            $('.textbox').append('<p class="floatright">Draw or Paint</p>');
 
         } else if(src == "images/painter-256.png") {
-            $("#angry").attr("src","images/singer-256.png"); 
+            $("#angry").attr("src","images/singer-256.png");
+            $('#tips_box_one').append('<p class="floatright">Sing With Them</p>');
 
         } else if(src == "images/singer-256.png") {
         	$("#angry").attr("src","images/angry-256.png");
@@ -34,7 +45,7 @@
         } else {
             $("#angry").attr("src","images/quiet-256.png");
         }
-    }); 
+    });
 
 
 
@@ -49,10 +60,10 @@
             $("#harm").attr("src","images/head-protection-256.png");
 
         } else if(src == "images/head-protection-256.png") {
-            $("#harm").attr("src","images/hug-256.png"); 
+            $("#harm").attr("src","images/hug-256.png");
 
         } else if(src == "images/hug-256.png") {
-            $("#harm").attr("src","images/singer-256.png"); 
+            $("#harm").attr("src","images/singer-256.png");
 
         } else if(src == "images/singer-256.png") {
         	$("#harm").attr("src","images/bang-on-wall-256.png");
@@ -61,7 +72,7 @@
         } else {
             $("#harm").attr("src","images/bang-on-wall-256.png");
         }
-    }); 
+    });
 
     $("#suicide").click(function() {
 
@@ -75,7 +86,7 @@
         } else {
             $("#suicide").attr("src","images/violent-256.png");
         }
-    });  
+    });
 
     $("#violent").click(function() {
 
@@ -92,7 +103,5 @@
         } else {
             $("#violent").attr("src","images/violent-256.png");
         }
-    });  
+    });
 });
-
-

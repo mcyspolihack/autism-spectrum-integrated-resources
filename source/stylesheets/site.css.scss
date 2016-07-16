@@ -187,7 +187,7 @@ legend {
   margin: 2% 5%;
   height: 200px;
   float: left;
-
+  display: inline-block;
 }
 
 #tips_box_two {
@@ -315,4 +315,9 @@ h1 {
 #pills2{
   width: 128;
   height: 128;
+}
+
+.floatright{
+  float: right;
+  margin-right: 10%;
 }
