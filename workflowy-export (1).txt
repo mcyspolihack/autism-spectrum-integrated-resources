@@ -1,0 +1,406 @@
+﻿- Autism
+  - The Ministry of Children and Youth Services
+    - Toronto Region
+      - Areas Served
+        - The City of Toronto
+      - The Ministry of Children and Youth Services
+        - Offices
+          - 375 University Avenue, 5th Floor, Toronto, ON, M7A 1G1
+            - Tel: (416) 325-0500
+            - Fax: (416) 325-0565
+            - TTY: (416) 325-3600
+        - Youth Justice Services
+          - 171 Judson Street, Bldg C, Etobicoke, ON, M8Z 1A4
+            - Tel: (416) 314-0520
+            - Fax: (416) 314-8388
+            - TTY: (416) 326-8703
+      - Your ABA Sevice Provider
+        - Toronto
+          - Surrey Place Centre
+            - 2 Surrey Place, Toronto, Ontario M5S 2C2
+            - www.surreyplace.on.ca
+          - Kerry's Place Autism Services
+            - 219 Dufferin St., Unit 12A, Toronto, Ontario M6K 3J1
+            - www.kerrysplace.org
+        - York Region or Simcoe County
+          - Kerry's Place Autism Services
+            - 34 Berczy Street, Suite 130, Aurora, Ontario L4G 1W9
+            - www.kerrysplace.org
+            - Tel: 1-866-377-0286
+        - Durham Region
+          - Grandview Children's Centre
+            - 600 Townline Road South, Oshawa, Ontario L1H 7K
+            - www.grandviewcc.ca
+            - Tel: 905-728-1673, extension 2248
+            - Toll-Free: 1-800-304-6180, extension 2248
+        - Central West
+          - Kerry’s Place Autism Services
+            - 6660 Kennedy Road, Unit #6, Mississauga, Ontario L5T 2M9
+            - www.kerrysplace.org
+            - Tel: 1-800-668-6432
+          - ErinoakKids Centre for Treatment and Development
+            - 2695 North Sheridan Way, Suite 120, Mississauga, Ontario L5K 2N6
+            - www.erinoakkids.ca
+            - Tel: 1-800-668-6432
+      - Your IBI Sevice Provider
+        - Surrey Place Centre
+          - 2 Surrey Place, Toronto, ON M5S 2C2
+          - www.surreyplace.on.ca
+          - Tel: (416) 925-5141
+      - Respite Services
+        - http://www.respiteservices.com/Toronto/index.aspx?CategoryID=173&lang=en-CA
+    - Central Region
+      - Areas Served
+        - Dufferin
+        - Halton
+        - Peel
+        - Simcoe
+        - Waterloo
+        - Wellington
+        - York
+      - The Ministry of Children and Youth Services
+        - Offices
+          - 6733 Mississauga Road, Suite 200, Mississauga, ON, L5N 6J5
+            - Tel: (905) 567-7177
+            - Fax: (905) 567-3215
+          - 17310 Yonge Street, Newmarket, ON, L3Y 7R8
+            - Tel: (905) 868-8900
+            - Toll Free: 1-877-669-6658
+            - Fax: (905) 895-4330
+        - Youth Justice Services
+          - 171 Judson Street, Bldg C, Etobicoke, ON, M8Z 1A4
+            - Tel: (416) 314-0520
+            - Fax: (416) 314-8388
+            - TTY: (416) 326-8703
+      - Your ABA Sevice Provider
+        - South West
+          - Thames Valley Children's Centre
+            - 779 Base Line Road East, London, Ontario N6C 5Y6
+            - www.tvcc.on.ca
+            - Tel: 519-685-8700
+            - Toll-Free: 1-866-590-8822
+      - Your IBI Sevice Provider
+        - Erin Oak Kids Centre for Treatment and Development
+          - 2695 North Sheridan Way, Suite 120, Mississauga, ON L5K 2N6
+          - www.erinoakkids.ca
+          - Tel: (905) 855-3557
+          - Toll-Free: 1-877-374-6625
+        - Kinark Child and Family Services
+          - 500 Hood Road, Suite 200, Markham, ON L3R 9Z3
+          - www.kinark.on.ca
+          - Tel: (905) 474-9595
+          - Toll-Free: 1-800-230-8533
+      - Respite Services
+    - West Region
+      - Areas Served
+        - Brantford
+        - Bruce
+        - Chatham-Kent
+        - Grey
+        - Hamilton - Niagara
+        - Huron
+        - Lambton
+        - London
+        - Norfolk
+        - Oxford
+        - St. Thomas
+        - Stratford
+        - Windsor
+      - The Ministry of Children and Youth Services
+        - Offices
+          - 217 York Street, Suite 203, P.O. Box 5217, London, ON, N6A 5R1
+            - Tel: (519) 438-5111
+            - Fax: (519) 672-9510
+            - Toll Free: 1-800-265-4197
+            - TTY: (519) 663-5276
+          - 119 King Street West, Hamilton, ON, L8P 4Y7
+            - Tel: (905) 521-7280
+            - Fax: (905) 546-8277
+            - Toll Free: 1-866-221-2229
+            - TTY: (905) 546-8276
+        - Youth Justice Services
+          - 600 Sanatorium Road, Morgan Building, 1st Floor, London, ON, N6H 3W7
+            - Tel: (519) 858-2774 ext. 2681
+            - Fax: (519) 858-8745
+            - TTY: (519) 858-0257
+      - Your ABA Sevice Provider
+        - Hamilton/ Niagara
+          - Hamilton Health Sciences, McMaster Children’s Hospital - Ron Joyce Children’s Health Centre
+            - 325 Wellington Street North, Hamilton, ON L8L 0A4
+            - www.mcmasterchildrenshospital.ca
+            - Tel: 1-888-993-9974
+      - Your IBI Sevice Provider
+        - Hamilton Health Sciences - McMaster Children’s Hospital - Ron Joyce Children’s Health Centre
+          - 325 Wellington Street North, Hamilton, ON L8L 0A4
+          - www.mcmasterchildrenshospital.ca
+          - Tel: (905) 521-2100 x74136
+          - Toll-Free: 1-888-993-9974
+        - Thames Valley Children's Centre
+          - 779 Base Line Road East, London, ON N6C 5Y6
+          - www.tvcc.on.ca
+          - Tel: (519) 685-8680
+          - Toll-Free: 1-866-516-5368
+      - Respite Services
+    - East Region
+      - Area served
+        - Cornwall
+        - Durham
+        - Hastings
+        - Kawartha Lakes
+        - Kingston
+        - Lanark
+        - Leeds & Grenville
+        - Lennox & Addington
+        - Northumberland
+        - Ottawa
+        - Peterborough
+        - Prescott & Russell
+        - Renfrew
+      - The Ministry of Children and Youth Services
+        - Offices
+          - 347 Preston Street, 3rd floor, Ottawa, ON, K1S 2T7
+            - Tel: (613) 234-1188
+            - Fax: (613) 783-5958
+            - Toll Free: 1-800-267-5111
+          - 11 Beechgrove Lane, Kingston, ON, K7M 9A6
+            - Tel: (613) 545-0539
+            - Fax: (613) 536-7272
+            - Toll Free: 1-800-646-3209
+            - TTY: (613) 536-7304
+        - Youth Justice Services
+          - 23 Beechgrove Lane, 2nd Floor, Kingston, ON, K7M 9A6
+            - Tel: (613) 536-7258
+            - Fax: (613) 536-7377
+            - TTY: (613) 536-7285
+      - Your ABA Sevice Provider
+        - Eastern
+          - Children’s Hospital of Eastern Ontario
+            - 1661 Montreal Road, Ottawa, Ontario K1J 9B7
+            - www.cheo.on.ca
+            - Tel: 613-745-7563, extension 285
+            - Toll Free: 1-877-542-2294
+        - South East
+          - Pathways for Children and Youth
+            - 1201 Division Street, Suite 215, Kingston, Ontario K7K 6X4
+            - www.pathwayschildrenyouth.org
+            - Tel: 613-546-1422, extension 1
+        - Haliburton Kawartha Pine Ridge (HKPR) incl. City of Kawartha Lakes, Haliburton, Peterborough and Northumberland
+          - Tri-County Community Support Services
+            - 349A George Street North, Suite 303, Peterborough, Ontario K9H 3P9
+            - www.tccss.org
+            - Tel: 1-888-454-6275
+      - Your IBI Sevice Provider
+        - Children's Hospital of Eastern Ontario
+          - 401 Smyth Rd., Ottawa, ON K1H 8L1
+          - www.cheo.on.ca
+          - Tel: (613) 745-5963
+          - Toll-Free: 1-877-542-2294
+        - Pathways for Children and Youth
+          - 1201 Division Street, Suite 215, Kingston, ON K7K 6X4
+          - www.pathwayschildrenyouth.org
+          - Tel: (613) 546-8535
+      - Respite Services
+    - North Region
+      - Areas Served
+        - Algoma
+        - Cochrane
+        - Kenora
+        - Manitoulin-Sudbury
+        - Nipissing
+        - Parry Sound
+        - Rainy River
+        - Sault Ste. Marie
+        - Sudbury
+        - Thunder Bay
+        - Timiskaming
+      - The Ministry of Children and Youth Services
+        - Offices
+          - 199 Larch Street, 10th Floor, Suite 1002, Sudbury, ON, P3E 5P9
+            - Tel: (705) 564-4515
+            - Fax: (705) 564-2163
+            - Toll Free: 1-800-461-1167
+            - TTY: (705) 564-3233
+          - 621 Main Street West, North Bay, ON, P1B 2V6
+            - Tel: (705) 474-3540
+            - Fax: (705) 474-5815
+            - Toll Free: 1-800-461-6977
+            - TTY: (705) 474-7665
+        - Youth Justice Services
+          - 200 First Ave W, 4th Floor, North Bay, ON, P1B 9M3
+            - Tel: (705) 494-3642
+            - Fax: (705) 494-3212
+            - Fax - South Porcupine: (705)-235-1989
+            - Fax - Thunder Bay: (807)-475-1306
+      - Your ABA Sevice Provider
+        - Northern
+          - Child & Community Resources
+            - 662 Falconbridge Road, Sudbury, Ontario P3A 4S4
+            - www.childcare.on.ca
+            - Tel: 705-525-0055
+            - Toll-Free: 1-877-996-1599
+        - North East
+          - One Kids Place
+            - 500 McKeown Ave, North Bay, Ontario P1B 0B2
+            - www.onekidsplace.ca
+            - Tel: 705-476-5437
+            - Toll-Free: 1-866-626-9100
+      - Your IBI Sevice Provider
+        - Hands - The Family Help Network
+          - 222 Main Street East, North Bay, ON P1B 1B1
+          - www.thefamilyhelpnetwork.ca
+          - Tel: (705) 476-2293
+          - Toll-Free: 1-800-668-8555
+        - Child Care Resources
+          - 662 Falconbridge Road, Sudbury, ON P3A 4S4
+          - www.childcare.on.ca/default.aspx
+          - Tel: (705) 525-0055
+          - Toll-Free: 1-877-996-1599
+      - Respite Services
+  - Guide
+    - Questions
+      - Does the behaviour put your child or others at risk of physical harm?
+      - Is your child unable to stop the behaviour by themselves or unable to engage in a range of activities or play?
+      - Will your child have difficulty in social situations if the behaviour continues?
+      - Will the behaviour be unacceptable 5 years from now?
+      - Is the behaviour limiting your child’s ability to fully participate in family, social, or school activities?
+    - Coping Method Flow Chart - Is this helping?
+      - Talk to a friend / parent / teacher
+        - Yes
+        - No
+          - Take a deep breath / go to a quiet place
+            - Yes
+            - No
+              - Repeat a calming mantra
+                - Yes
+                - No
+                  - Use logic to remind yourself that everything is OK
+                    - Yes
+                    - No
+                      - Hold on to something familiar / calming
+                        - Yes
+                        - No
+                          - Write down what is making you upset
+                            - Yes
+                            - No
+                              - Watch a show / play a computer game
+                                - Yes
+                                - No
+                                  - Go outside / play sports / exercise
+                                    - Yes
+                                    - No
+                                      - Draw / paint / write
+                                        - Yes
+                                        - No
+                                          - Listen to a calming message or music
+                                            - Yes
+                                            - No
+                                              - Spend time with a pet
+                                                - Yes
+                                                - No
+                                                  - Keep a timetable / structure your day
+                                                    - Yes
+                                                    - No
+                                                      - Go to a doctor / therapist
+                                                        - Yes
+                                                        - No
+    - Front-line care worker
+      - Simple Strategies (For more able students with Autism & Asperger Syndrome)
+        - Disclaimer: This document reflects the views of the author. It is Autism Ontario’s intent to inform and educate. Every situation is unique and while we hope this information is useful, it should be used in the context of broader considerations for each person. Please contact Autism Ontario at info@autismontario.com or 416-246-9592 for permission to reproduce this material for any purpose other than personal use. © 2012 Autism Ontario  416.246.9592  www.autismontario.com.
+          - Operate on Autism/Asperger time
+            - Twice as much time, half as much done
+            - Modify requirements – focus on essentials
+            - Reduce or eliminate handwriting
+            - Avoid rushing
+          - Manage the environment
+            - Prepare for change
+            - Incorporate the student’s preferences
+            - Build in relaxation
+            - Provide choices
+          - Create a balanced agenda that conserves energy
+            - Monitor demands
+            - Engage the student in a familiar or calming activity early in the school day to prepare him or her for work
+            - Incorporate special interests into assignments
+            - Alternate difficult and less difficult tasks as well as interchange non-preferred and preferred activities
+            - Provide “down time” in the schedule
+            - Use calming and alerting activities
+          - Share the agenda
+            - Use visual supports to provide information and encourage independence
+          - Simplify language
+            - Watch for literalness
+            - Teach the “hidden curriculum” (unwritten social rules)
+          - Set a calm, positive tone
+            - Model acceptance
+          - Live out loud
+            - Verbalize your actions
+          - Be generous with praise
+            - Foster attribution and understanding (for the student)
+          - Listen to the words
+            - Seek and offer clarification
+          - Provide reassurance
+            - Reduce uncertainty
+      - The Emotional Toolbox (Adapted from Attwood, T. (2008). The Complete Guide to Asperger’s Syndrome.)
+        - Tony Attwood, a well-known psychologist in the field of Autism Spectrum Disorders (ASD), conceptualized the Emotional Toolbox. It represents a collection of tools (strategies) designed to help people deal with negative emotions. The Emotional Toolbox for individuals with an ASD is designed to increase the number of strategies available to prevent and manage negative emotions such as anxiety, anger and sadness. The Emotional Toolbox aims to do two things: reduce the intensity of the emotions being experienced and help the person understand the role thoughts play when one is faced with anxiety-producing situations. There are eight types of tools, each of which is defined below.
+          - Physical Tools: physical activities that quickly release emotional energy
+            - Jump on a trampoline, on the spot or on a big ball
+            - Go on the swing
+            - Take a walk, go for a run or a bike ride, dance, swim
+            - Play sports or do exercises
+            - Do house work
+            - Watch a comedy (to laugh)
+          - Relaxation Tools: slowly release emotional energy and help to calm and lower the heart rate
+            - Retreat to a quiet place
+            - Do progressive muscle relaxation (tension-release)
+            - Draw or paint
+            - Do crafts, read, listen to music
+            - Rock gently
+            - Access fidget items (e.g. stress ball, stones, soft objects, worry beads)
+            - Organize personal belongings or do relaxing chores
+            - Watch a television program, favourite film, look at a photo album
+            - Listen to a recorded message from an important person in one’s life (parent, grand-parent)
+            - Ask for a break and incorporate breaks into the day
+          - Social Tools: help manage emotions and change moods through interaction with a person or an animal
+            - Go see a person you trust
+            - Talk to a friend, teacher, parent, grand-parent, counselor or support person
+            - Show altruism – help others or do something for someone
+            - Volunteer (help classmates, students in another classroom, in the library or office, at a local pet store)
+            - Spend time with a pet
+          - Thinking Tools: capitalize on intellectual strengths to teach how to change thinking and manage emotions
+            - Replace poisonous thoughts with antidotes (positive self-talk)
+            - Create a mantra (positive and calming statement)
+            - Imagine a calm, positive or happy scene or area
+            - Imagine a positive result through visualization or Cognitive Picture Rehearsal
+            - Use logic and facts to put the situation in perspective
+            - Engage in an academic task that helps one calm down and feel successful
+            - Keep an object that symbolizes calm
+            - Create a “happy book/album” of successes, fun activities, talents and strengths
+            - Peruse “self-help” information
+            - Refer to strategies on the 3-point or 5-point scales, emotional thermometer, etc.
+          - Special Interest Tools: provide pleasure, relaxation and serve as an ″off switch”
+            - Engage in a special interest for a specific amount of time (make time more concrete with a timer, watch, etc.)
+            - Incorporate special interests into the schedule
+            - Incorporate special interests or talents into the curriculum, employment or volunteer work
+          - Medication: used to treat mood disorders
+            - Work collaboratively with health care professionals
+            - Follow the physician’s instructions
+            - Record any side effects (positive and negative) and discuss with the physician
+            - Understand that medication is a tool but that it should not be the only tool in the toolbox
+          - Other Tools: reduce anxiety or effects of negative emotions but do not belong in a specific category
+            - Read biographies and autobiographies of people with an Autism Spectrum Disorder (ASD)
+            - Develop self-advocacy skills
+            - Educate others about strengths, needs and accommodations necessary for success
+            - Self-reinforce for using new tools
+            - Identify sensory tools that allow avoidance of certain negative sensory stimuli or minimize their effects
+          - Inappropriate Tools: tools which are harmful or counter-productive; it is crucial to identify inappropriate tools so that they may be replaced with more appropriate tools
+            - Substance abuse
+            - Prescription or illicit drugs
+            - Alcohol
+            - Self-harm or suicidal ideation
+            - Violence, aggression and revenge
+            - Promiscuous behaviour
+      - Tantrum or Meltdown? (www.care.com/a/how-to-handle-the-4-most-challenging-autism-behaviors-1204050236)
+        - Every child (especially one with Autism Spectrum Disorder) is unique, trying to understand what causes them stress and what helps calm them down is a unique learning process for each child
+        - With a tantrum, the child is still in control, they want to get their own way.
+        - With a meltdown, they can't calm down and at that point either they've gotten themselves so upset or so overwhelmed they're no longer in control of the situation.
+          - "It's important not to always give in to meltdowns because you're afraid of them. The basic thing is to hold them and calm them and wait until they can calm down themselves. I know some kids have really egregious meltdowns, so it's important not to put them in a situation where you think they may have one but if they do, just keep them safe and soothe them in whatever way you know works until they can recover."
+      - Meltdown Flow Chart - Is this working?
+        - 
