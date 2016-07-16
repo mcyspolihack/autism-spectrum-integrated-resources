@@ -19,17 +19,44 @@ a {
   height: 400px;
   margin: auto;
   border: 5px solid white;
-  border-radius: 30px;
+  border-radius: 20px;;
   background-color: #ECA10A;
 }
 
 .container_region {
   width: 40%;
-  margin: 5%;
+  margin: 3% 5%;
   height: 100vh;
   background-color:  #ECA10A;
-  border-radius: 30px;
+  border-radius: 20px;;
   float: left;
+  border: 5px solid white;
+}
+
+.container_subregion {
+  width: 60%;
+  margin: 10vh 20%;
+  height: 80vh;
+  background-color:  #ECA10A;
+  border-radius: 20px;;
+  border: 5px solid white;
+}
+
+.container_problem {
+  width: 60%;
+  margin: 10vh 20%;
+  height: 80vh;
+  background-color:  #ECA10A;
+  border-radius: 20px;;
+  border: 5px solid white;
+}
+
+.container_resource {
+  width: 60%;
+  margin: 10vh 20%;
+  height: 115vh;
+  background-color:  #ECA10A;
+  border-radius: 20px;;
   border: 5px solid white;
 }
 
@@ -57,7 +84,7 @@ a {
   width: 90%;
   height: 16vh;
   border: 5px solid white;
-  border-radius: 30px;
+  border-radius: 20px;;
   margin-top: 2vh;
   margin-bottom: 2vh;
   margin-left: 5%;
@@ -81,7 +108,7 @@ p.button_text_home {
   width: 295px;
   float: right;
   line-height: 300px;
-  font-size: 20px;
+  font-size: 25px;
   color: white;
   font-weight: 700;
   text-align: center;
@@ -92,7 +119,7 @@ p.button_text_home {
   width: 295px;
   height: 300px;
   border: 5px solid white;
-  border-radius: 30px;
+  border-radius: 20px;;
   margin: 50px;
   margin-left: 75px;
   margin-right: 25px;
@@ -107,7 +134,7 @@ p.button_text_home {
   width: 295px;
   height: 300px;
   border: 5px solid white;
-  border-radius: 30px;
+  border-radius: 20px;;
   margin: 50px;
   margin-left: 25px;
   margin-right: 75px;
@@ -210,5 +237,11 @@ h1 {
   margin-top: 5%;
   margin-left: 5%;
   margin-right: 5%;
-  border-radius: 30px;
+  border-radius: 20px;;
+}
+
+#people_box_one {
+  width: 80%;
+  height: 60vh;
+  margin-left: 10%;
 }
