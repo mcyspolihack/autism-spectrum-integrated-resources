@@ -2,7 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'lato', 'Verdana';
+  font-family: 'avenir next','lato', 'Verdana';
+  font-weight: lighter;
 }
 
 html {
@@ -74,7 +75,7 @@ p {
   color: #ECA10A;
   line-height: 50px;
   font-size: 20px;
-  font-weight: 700;
+  font-weight: normal;
   border-radius: 3%;
   position: relative;
   margin-left: 50px;
@@ -108,7 +109,7 @@ p.button_text_problem {
   line-height: 14vh;
   font-size: 25px;
   color: white;
-  font-weight: 700;
+  font-weight: normal;
   text-align: center;
 }
 
@@ -118,7 +119,7 @@ p.button_text_home {
   line-height: 300px;
   font-size: 25px;
   color: white;
-  font-weight: 700;
+  font-weight: normal;
   text-align: center;
   margin: auto;
 }
@@ -226,6 +227,8 @@ h1 {
   margin: 25px 0px;
   margin-top: 50px;
   color: white;
+  font-family: 'avenir next', sans-serif;
+  font-weight: lighter;
 }
 
 .nav_bar {
@@ -329,4 +332,8 @@ h1 {
 .floatright{
   float: right;
   margin-right: 10%;
+}
+
+#textbox {
+  margin-bottom: 300px;
 }
