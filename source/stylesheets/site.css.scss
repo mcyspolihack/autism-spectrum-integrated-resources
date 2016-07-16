@@ -14,6 +14,12 @@ a {
   text-decoration: none;
 }
 
+p {
+  font-size: 25px;
+  font-color: white;
+  text-align: center;
+}
+
 .container {
   width: 800px;
   height: 400px;
@@ -41,6 +47,7 @@ a {
   border-radius: 20px;;
   border: 5px solid white;
 }
+
 
 .container_problem {
   width: 60%;
@@ -71,6 +78,7 @@ a {
   border-radius: 3%;
   position: relative;
   margin-left: 50px;
+  display: inline-block;
 }
 
 .image {
@@ -92,7 +100,7 @@ a {
   background-color: #E6B044;
 }
   .button1_problem:hover {
-    background-color: lightgray;
+    background-color: #F5D187;
   }
 
 p.button_text_problem {
@@ -127,7 +135,7 @@ p.button_text_home {
   background-color: #E6B044;
 }
   .button1_home:hover {
-    background-color: lightgray;
+    background-color: #F5D187;
   }
 
 .button2_home {
@@ -142,14 +150,16 @@ p.button_text_home {
   background-color: #E6B044;
 }
   .button2_home:hover {
-    background-color: lightgray;
+    background-color: #F5D187;
   }
 
   form {
-    width:100%;
-    text-align: center;
-    position: relative;
-    top: -100px;
+    text-align: right;
+    float: right;
+    width: 85%;
+    margin-top: 10px;
+    position: fixed;
+    display: inline-block;
   }
   .search {
     padding:8px 15px;
@@ -160,13 +170,13 @@ p.button_text_home {
     position:relative;
     padding:6px 15px;
     left:-8px;
-    border:2px solid #207cca;
-    background-color:#207cca;
+    border:2px solid #E6B044;
+    background-color:#E6B044;
     color:#fafafa;
   }
   .button:hover  {
     background-color:#fafafa;
-    color:#207cca;
+    color:#E6B044;
   }
 
 /* tips and tricks page */
@@ -233,17 +243,16 @@ h1 {
 }
 
 #map {
-  width: 40%;
+  width: 80%;
   height: 100vh;
   margin-top: 5%;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
   border-radius: 20px;;
 }
 
 #people_box_one {
   width: 80%;
-  height: 60vh;
   margin-left: 10%;
 }
 

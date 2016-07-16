@@ -1,44 +1,91 @@
-<h1>Where in Ontario do you live?</h1>
-<div class='container_region'>
+<h1>Where exactly do you live?</h1>
+<!-- <div class='container_region'>
   <a href='/subregion.html'><div class='button1_problem'><p class='button_text_problem'>Toronto<p></div></a>
   <a href='/subregion.html'><div class='button1_problem'><p class='button_text_problem'>North<p></div></a>
   <a href='/subregion.html'><div class='button1_problem'><p class='button_text_problem'>East<p></div></a>
   <a href='/subregion.html'><div class='button1_problem'><p class='button_text_problem'>South<p></div></a>
   <a href='/subregion.html'><div class='button1_problem'><p class='button_text_problem'>West<p></div></a>
-</div>
-
-  <div id="map"></div>
+</div> -->
 
 
-  <script type="text/javascript">
+<div id="map"></div>
+
+
+<script type="text/javascript">
   var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 4,
-    center: new google.maps.LatLng(49.394356, -83.258522),
+    zoom: 8,
+    center: new google.maps.LatLng(43.7181553, -79.5184867),
     mapTypeId: google.maps.MapTypeId.ROADMAP
   });
-  function loadURL(marker){
-    return function(){
-      window.location.href = marker.url;
-    };
-  };
+  // function loadURL(marker){
+  //   return function(){
+  //     window.location.href = marker.url;
+  //   };
+  // };
   //
   // function initialize(){
-    var locations = [
-      ['northOntario', 52.291257, -86.160338, 'https://google.com'],
-      ['southOntario', 43.194339, -80.932087, 'https://yahoo.com'],
-      ['westOntario', 50.900586, -92.489704, 'https://facebook.com'],
-      ['eastOntario', 49.551208, -80.624470, 'https://linkedin.com'],
+    var northLocations = [
+      {lat: 44.186528, lng: -80.258501},
+      {lat: 43.694642, lng: -80.266464},
+      {lat: 43.717821, lng: -81.169360},
+      {lat: 44.371075, lng: -81.169981}
     ];
-    var infowindow = new google.maps.InfoWindow();
-    var marker, i;
-    for (i = 0; i < locations.length; i++) {
-      marker = new google.maps.Marker({
-        position: new google.maps.LatLng(locations[i][1], locations[i][2]),
-        map: map,
-        title: locations[i][0],
-        url: locations[i][3]
-      });
-      google.maps.event.addListener(marker, 'click', loadURL(marker));
-    };
-  // };
-  </script>
+    var northToronto = new google.maps.Polygon({
+    paths: northLocations,
+    strokeColor: '#0000FF',
+    strokeOpacity: 0.6,
+    strokeWeight: 2,
+    fillColor: '#0000FF',
+    fillOpacity: 0.35
+  });
+  northToronto.setMap(map);
+  google.maps.event.addListener(northToronto, "click", function() { window.location = "/problem.html" });
+  var southLocations = [
+    {lat: 44.186528, lng: -80.258501},
+    {lat: 44.215439, lng:  -79.159759},
+    {lat: 43.736090, lng: -79.226786},
+    {lat: 43.694642, lng: -80.266464}
+  ];
+  var southToronto = new google.maps.Polygon({
+  paths: southLocations,
+  strokeColor: '#FF0000',
+  strokeOpacity: 0.6,
+  strokeWeight: 2,
+  fillColor: '#FF0000',
+  fillOpacity: 0.35
+  });
+  southToronto.setMap(map);
+  google.maps.event.addListener(southToronto, "click", function() { window.location = "/problem.html" });
+  var eastLocations = [
+    {lat: 43.694642, lng: -80.266464},
+    {lat: 42.915519, lng: -80.255903},
+    {lat: 42.907505, lng: -81.647323},
+    {lat: 43.717821, lng: -81.169360}
+  ];
+  var eastToronto = new google.maps.Polygon({
+  paths: eastLocations,
+  strokeColor: '#00FF00',
+  strokeOpacity: 0.6,
+  strokeWeight: 2,
+  fillColor: '#00FF00',
+  fillOpacity: 0.35
+  });
+  eastToronto.setMap(map);
+  google.maps.event.addListener(eastToronto, "click", function() { window.location = "/problem.html" });
+  var westLocations = [
+    {lat: 43.140274, lng: -80.255477},
+    {lat: 42.915519, lng: -80.255903},
+    {lat: 43.736090, lng: -79.226786},
+    {lat: 43.694642, lng: -80.266464}
+  ];
+  var westToronto = new google.maps.Polygon({
+  paths: westLocations,
+  strokeColor: '#FFFF00',
+  strokeOpacity: 0.6,
+  strokeWeight: 2,
+  fillColor: '#FFFF00',
+  fillOpacity: 0.35
+});
+  westToronto.setMap(map);
+  google.maps.event.addListener(westToronto, "click", function() { window.location = "/problem.html" });
+</script>
