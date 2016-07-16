@@ -1,23 +1,56 @@
-<!-- Meltdown page -->
-
-<!-- Page 2 page -->
-  <div class='button0'>HELP ME NOW</div>
-  <div class='button1'><p class='button_text'>My child is angry<p></div>
-  <div class='button2'><p class='button_text'>My child is hurting me<p></div>
-  <div class='button3'><p class='button_text'>My child is hurting himself<p></div>
-  <div class='button4'><p class='button_text'>My child wants to end his own life<p></div>
-
-<!-- Control page from Self-Harming-->
-
-
-<!-- Meditate resources goes here from Screaming or Control -->
-
-<!-- Suicide Control page -->
-
-<!-- Control page from Self-Harming-->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <title>Google Maps Multiple Markers</title>
+  <script src="http://maps.google.com/maps/api/js?sensor=false"
+          type="text/javascript"></script>
+</head>
+<body>
+  <div id="map" style="width: 500px; height: 400px;"></div>
 
 
-<!-- Helpline page page -->
+  <script type="text/javascript">
+
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 4,
+    center: new google.maps.LatLng(49.394356, -83.258522),
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  });
+
+  function loadURL(marker){
+    return function(){
+      window.location.href = marker.url;
+    };
+  };
+  //
+  // function initialize(){
+    var locations = [
+      ['northOntario', 52.291257, -86.160338, 'https://google.com'],
+      ['southOntario', 43.194339, -80.932087, 'https://yahoo.com'],
+      ['westOntario', 50.900586, -92.489704, 'https://facebook.com'],
+      ['eastOntario', 49.551208, -80.624470, 'https://linkedin.com'],
+    ];
+
+    var infowindow = new google.maps.InfoWindow();
+
+    var marker, i;
+
+    for (i = 0; i < locations.length; i++) {
+      marker = new google.maps.Marker({
+        position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+        map: map,
+        title: locations[i][0],
+        url: locations[i][3]
+      });
+
+      google.maps.event.addListener(marker, 'click', loadURL(marker));
+    };
+  // };
 
 
-<!-- Glad to have helped page -->
+
+
+  </script>
+</body>
+</html>
